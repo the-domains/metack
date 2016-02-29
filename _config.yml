@@ -1,0 +1,28 @@
+name: metack
+favicon: null
+layout_spectrum: 0.05899183452129364
+typography_spectrum: 0.18747932952828705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6463107806630433
+  lightness: 0.9153738066088408
+  saturation: 0.5442887428216636
+  rhythmicContrast: 0.9020484040956944
+purpose: []
